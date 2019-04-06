@@ -1,4 +1,4 @@
-# JDBC-SQL-Simple-operatations-on-a-DB
+# JDBC-SQL-Simple-operations-on-a-DB
 
 **SQL over JDBC**
 
